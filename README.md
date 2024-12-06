@@ -27,6 +27,11 @@
 | [bean-appearance-citrus-icon-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-citrus-icon-theme/bean-appearance-citrus-icon-theme.pacscript) | [Source](https://github.com/yeyushengfan258/Citrus-icon-theme) |
 
 
+| Pacscript | Source |
+| --------- | ------ |
+| [bean-appearance-vimix-gtk-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-vimix-gtk-theme/bean-appearance-vimix-gtk-theme.pacscript) | [Source](https://github.com/vinceliuice/Vimix-gtk-themes) |
+
+
 
 
 ## Link

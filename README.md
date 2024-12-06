@@ -29,6 +29,11 @@
 
 | Pacscript | Source |
 | --------- | ------ |
+| [bean-appearance-vimix-kde-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-vimix-kde-theme/bean-appearance-vimix-kde-theme.pacscript) | [Source](https://github.com/vinceliuice/Vimix-kde) |
+
+
+| Pacscript | Source |
+| --------- | ------ |
 | [bean-appearance-vimix-gtk-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-vimix-gtk-theme/bean-appearance-vimix-gtk-theme.pacscript) | [Source](https://github.com/vinceliuice/Vimix-gtk-themes) |
 
 

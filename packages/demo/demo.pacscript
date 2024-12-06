@@ -14,6 +14,7 @@ pkgver () {
 	return 0
 }
 #incompatible=("debian:*")
+#external_connection=true
 
 
 

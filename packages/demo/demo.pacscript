@@ -1,6 +1,6 @@
 pkgname="demo"
 source=("https://github.com/samwhelp/pacstall-demo-repository/raw/master/helper/share/asset/empty.tar.gz")
-pkgver="0.0.1"
+pkgver="0.1.1"
 depends=()
 pacdeps=()
 gives="demo"

@@ -1,7 +1,7 @@
 pkgname="bean-appearance-vimix-kde-theme"
 gives="${pkgname}"
 arch=("all")
-pkgver="0.0.1"
+pkgver="0.1.1"
 pkgdesc="Vimix Kde Theme"
 maintainer="develop <develop@home.heaven>"
 source=("https://github.com/vinceliuice/Vimix-kde/archive/refs/heads/master.tar.gz")

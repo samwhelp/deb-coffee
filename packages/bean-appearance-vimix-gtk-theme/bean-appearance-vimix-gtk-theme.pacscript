@@ -1,7 +1,7 @@
 pkgname="bean-appearance-vimix-gtk-theme"
 gives="${pkgname}"
 arch=("all")
-pkgver="0.0.1"
+pkgver="0.1.1"
 pkgdesc="Vimix Gtk Theme"
 maintainer="develop <develop@home.heaven>"
 source=("https://github.com/vinceliuice/Vimix-gtk-themes/archive/refs/heads/master.tar.gz")

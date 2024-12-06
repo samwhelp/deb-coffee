@@ -1,7 +1,7 @@
 pkgname="bean-wallpaper-collection"
 gives="${pkgname}"
 arch=("all")
-pkgver="0.0.1"
+pkgver="0.1.1"
 pkgdesc="Wallpaper Collection"
 maintainer="develop <develop@home.heaven>"
 source=("https://github.com/samwhelp/pacstall-demo-repository/raw/master/helper/share/asset/empty.tar.gz")

@@ -1,7 +1,7 @@
 pkgname="bean-appearance-citrus-icon-theme"
 gives="${pkgname}"
 arch=("all")
-pkgver="0.0.1"
+pkgver="0.1.1"
 pkgdesc="Citrus-icon-theme"
 maintainer="develop <develop@home.heaven>"
 source=("https://github.com/yeyushengfan258/Citrus-icon-theme/archive/refs/heads/master.tar.gz")

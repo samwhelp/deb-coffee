@@ -2,25 +2,13 @@ pkgname="bean-appearance-vimix-gtk-theme"
 gives="${pkgname}"
 arch=("all")
 pkgver="0.0.1"
-pkgdesc="Vimix-gtk-themes"
+pkgdesc="Vimix Gtk Theme"
 maintainer="develop <develop@home.heaven>"
 source=("https://github.com/vinceliuice/Vimix-gtk-themes/archive/refs/heads/master.tar.gz")
 url="https://github.com/samwhelp/deb-coffee/tree/main/packages/bean-appearance-vimix-gtk-theme"
 depends=()
 pacdeps=()
 replace=()
-
-
-
-
-util_index_theme_inherits_set () {
-
-	local value="${1}"
-	local index_theme_file_path="${2}"
-	sed -i "s|^Inherits=.*|Inherits=${value}|g" "${index_theme_file_path}"
-
-	return 0
-}
 
 
 

@@ -74,6 +74,12 @@ run
 pacstall -A https://raw.githubusercontent.com/samwhelp/deb-coffee/main
 ```
 
+or run
+
+``` sh
+pacstall -A https://github.com/samwhelp/deb-coffee/tree/main
+```
+
 
 run
 
@@ -89,6 +95,24 @@ https://raw.githubusercontent.com/samwhelp/deb-coffee/main
 ```
 
 
+
+
+## Add Repository / Local
+
+run
+
+``` sh
+git clone https://github.com/samwhelp/deb-coffee.git ~/Documents/deb-coffee
+```
+
+
+run
+
+``` sh
+pacstall -A "file://${HOME}/Documents/deb-coffee"
+```
+
+> See Also `man 8 pacstall`
 
 
 ## Demo

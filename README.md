@@ -45,7 +45,7 @@
 | --------- | ------ |
 | [bean-appearance-vimix-gtk-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-vimix-gtk-theme/bean-appearance-vimix-gtk-theme.pacscript) | [Source](https://github.com/vinceliuice/Vimix-gtk-themes) |
 | [bean-appearance-orchis-gtk-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-orchis-gtk-theme/bean-appearance-orchis-gtk-theme.pacscript) | [Source](https://github.com/vinceliuice/Orchis-theme) |
-| [bean-appearance-graphite-gtk-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-graphite-gtk-theme/bean-appearance-graphite-gtk-theme.pacscript) | [Source](https://github.com/vinceliuice/Graphite-gtk-theme |
+| [bean-appearance-graphite-gtk-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-graphite-gtk-theme/bean-appearance-graphite-gtk-theme.pacscript) | [Source](https://github.com/vinceliuice/Graphite-gtk-theme) |
 | [bean-appearance-fluent-gtk-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-fluent-gtk-theme/bean-appearance-fluent-gtk-theme.pacscript) | [Source](https://github.com/vinceliuice/Fluent-gtk-theme) |
 | [bean-appearance-layan-gtk-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-layan-gtk-theme/bean-appearance-layan-gtk-theme.pacscript) | [Source](https://github.com/vinceliuice/Layan-gtk-theme) |
 | [bean-appearance-colloid-gtk-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-colloid-gtk-theme/bean-appearance-colloid-gtk-theme.pacscript) | [Source](https://github.com/vinceliuice/Colloid-gtk-theme) |

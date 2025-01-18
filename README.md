@@ -50,6 +50,7 @@
 | [bean-appearance-layan-gtk-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-layan-gtk-theme/bean-appearance-layan-gtk-theme.pacscript) | [Source](https://github.com/vinceliuice/Layan-gtk-theme) |
 | [bean-appearance-colloid-gtk-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-colloid-gtk-theme/bean-appearance-colloid-gtk-theme.pacscript) | [Source](https://github.com/vinceliuice/Colloid-gtk-theme) |
 | [bean-appearance-qogir-gtk-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-qogir-gtk-theme/bean-appearance-qogir-gtk-theme.pacscript) | [Source](https://github.com/vinceliuice/Qogir-theme) |
+| [bean-appearance-lavanda-gtk-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-lavanda-gtk-theme/bean-appearance-lavanda-gtk-theme.pacscript) | [Source](https://github.com/vinceliuice/Lavanda-gtk-theme) |
 
 
 

@@ -1,11 +1,11 @@
-pkgname="bean-appearance-orchis-kde-theme"
+pkgname="bean-appearance-graphite-kde-theme"
 gives="${pkgname}"
 arch=("all")
 pkgver="0.1.1"
-pkgdesc="Orchis Kde Theme"
+pkgdesc="Graphite Kde Theme"
 maintainer="develop <develop@home.heaven>"
-source=("https://github.com/vinceliuice/Orchis-kde/archive/refs/heads/master.tar.gz")
-url="https://github.com/samwhelp/deb-coffee/tree/main/packages/bean-appearance-orchis-kde-theme"
+source=("https://github.com/vinceliuice/Graphite-kde-theme/archive/refs/heads/master.tar.gz")
+url="https://github.com/samwhelp/deb-coffee/tree/main/packages/bean-appearance-graphite-kde-theme"
 depends=()
 pacdeps=()
 replace=()
@@ -90,12 +90,12 @@ mod_theme_install_plasma_theme () {
 mod_theme_install_sddm_theme () {
 
 	local src_dir_path="${prjdir}/sddm/5.0"
-	#local src_dir_path="${prjdir}/sddm/6.0"
 	local des_dir_path="${pkgdir}/usr/share/sddm/themes"
 
 	util_copy_from_srcdir_to_desdir "${src_dir_path}" "${des_dir_path}"
 
 
+	rm -f "${des_dir_path}/install-nord.sh"
 	rm -f "${des_dir_path}/install.sh"
 	rm -f "${des_dir_path}/README.md"
 

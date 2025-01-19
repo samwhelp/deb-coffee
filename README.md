@@ -46,6 +46,7 @@
 | [bean-appearance-vimix-kde-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-vimix-kde-theme/bean-appearance-vimix-kde-theme.pacscript) | [Source](https://github.com/vinceliuice/Vimix-kde) |
 | [bean-appearance-orchis-kde-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-orchis-kde-theme/bean-appearance-orchis-kde-theme.pacscript) | [Source](https://github.com/vinceliuice/Orchis-kde) |
 | [bean-appearance-graphite-kde-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-graphite-kde-theme/bean-appearance-graphite-kde-theme.pacscript) | [Source](https://github.com/vinceliuice/Graphite-kde-theme) |
+| [bean-appearance-fluent-kde-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-fluent-kde-theme/bean-appearance-fluent-kde-theme.pacscript) | [Source](https://github.com/vinceliuice/Fluent-kde) |
 
 
 ### gtk-theme

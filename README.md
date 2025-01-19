@@ -59,6 +59,7 @@
 | [bean-appearance-qogir-gtk-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-qogir-gtk-theme/bean-appearance-qogir-gtk-theme.pacscript) | [Source](https://github.com/vinceliuice/Qogir-theme) |
 | [bean-appearance-lavanda-gtk-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-lavanda-gtk-theme/bean-appearance-lavanda-gtk-theme.pacscript) | [Source](https://github.com/vinceliuice/Lavanda-gtk-theme) |
 | [bean-appearance-matcha-gtk-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-matcha-gtk-theme/bean-appearance-matcha-gtk-theme.pacscript) | [Source](https://github.com/vinceliuice/Matcha-gtk-theme) |
+| [bean-appearance-canta-gtk-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-canta-gtk-theme/bean-appearance-canta-gtk-theme.pacscript) | [Source](https://github.com/vinceliuice/Canta-theme) |
 
 
 

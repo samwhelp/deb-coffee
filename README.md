@@ -17,6 +17,13 @@
 
 ## Pacscript
 
+* [wallpaper](#wallpaper)
+* [icon-theme](#icon-theme)
+* [kde-theme](#kde-theme)
+* [gtk-theme](#gtk-theme)
+
+
+
 
 ### wallpaper
 

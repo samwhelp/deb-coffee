@@ -130,7 +130,7 @@ package () {
 
 	#prjdir="${_archive}"
 
-	prjdir="${srcdir}/${pkgname}-master"
+	prjdir="${srcdir}/Vimix-kde-master"
 
 
 	echo

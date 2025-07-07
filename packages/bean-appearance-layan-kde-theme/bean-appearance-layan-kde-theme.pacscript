@@ -135,7 +135,7 @@ package () {
 
 	#prjdir="${_archive}"
 
-	prjdir="${srcdir}/${pkgname}-master"
+	prjdir="${srcdir}/Layan-kde-master"
 
 
 	echo

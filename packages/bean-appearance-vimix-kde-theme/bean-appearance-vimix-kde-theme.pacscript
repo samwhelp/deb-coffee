@@ -89,8 +89,8 @@ mod_theme_install_plasma_theme () {
 
 mod_theme_install_sddm_theme () {
 
-	local src_dir_path="${prjdir}/sddm/themes"
-	local des_dir_path="${pkgdir}/usr/share/sddm/themes"
+	local src_dir_path="${prjdir}/sddm/6.0/Vimix"
+	local des_dir_path="${pkgdir}/usr/share/sddm/themes/Vimix"
 
 	util_copy_from_srcdir_to_desdir "${src_dir_path}" "${des_dir_path}"
 

@@ -131,9 +131,11 @@ package () {
 	#pwd
 
 
-	prjdir="${_archive}"
-
 	#pkgdir="${pkgdir}"
+
+	#prjdir="${_archive}"
+
+	prjdir="${srcdir}/${pkgname}-master"
 
 
 	echo

@@ -35,9 +35,13 @@ package () {
 
 	#pwd
 
+	#echo
+	#echo cd "${_archive}"
+	#cd "${_archive}"
+
 	echo
-	echo cd "${_archive}"
-	cd "${_archive}"
+	echo cd "Citrus-icon-theme-master"
+	cd "Citrus-icon-theme-master"
 
 	local icons_dir_path="${pkgdir}/usr/share/icons"
 

@@ -28,8 +28,8 @@ package () {
 	#cd "${_archive}"
 
 	echo
-	echo cd "${pkgname}-master"
-	cd "${pkgname}-master"
+	echo cd "Fluent-gtk-theme-master"
+	cd "Fluent-gtk-theme-master"
 
 	local themes_dir_path="${pkgdir}/usr/share/themes"
 

@@ -28,8 +28,8 @@ package () {
 	#cd "${_archive}"
 
 	echo
-	echo cd "${pkgname}-master"
-	cd "${pkgname}-master"
+	echo cd "Orchis-theme-master"
+	cd "Orchis-theme-master"
 
 	local themes_dir_path="${pkgdir}/usr/share/themes"
 

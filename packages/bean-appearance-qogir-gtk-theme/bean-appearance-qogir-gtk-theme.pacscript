@@ -28,8 +28,8 @@ package () {
 	#cd "${_archive}"
 
 	echo
-	echo cd "${pkgname}-master"
-	cd "${pkgname}-master"
+	echo cd "Qogir-theme-master"
+	cd "Qogir-theme-master"
 
 	local themes_dir_path="${pkgdir}/usr/share/themes"
 

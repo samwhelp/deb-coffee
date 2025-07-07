@@ -28,8 +28,8 @@ package () {
 	#cd "${_archive}"
 
 	echo
-	echo cd "${pkgname}-main"
-	cd "${pkgname}-main"
+	echo cd "Graphite-gtk-theme-main"
+	cd "Graphite-gtk-theme-main"
 
 	local themes_dir_path="${pkgdir}/usr/share/themes"
 

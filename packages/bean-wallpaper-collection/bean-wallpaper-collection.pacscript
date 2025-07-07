@@ -238,11 +238,20 @@ mod_wallpaper_asset_install_wallpaper_download_the_Amiya () {
 mod_wallpaper_asset_install_wallpaper_download_the_Xero_Plasma6 () {
 
 	##
-	## Xero-Plasma6
+	## ## Xero-Plasma6
+	##
 	## * https://github.com/xerolinux/kde-wallpapers/blob/main/usr/share/wallpapers/Xero-Plasma6.jpg
 	##
 
-	wget -c 'https://raw.githubusercontent.com/xerolinux/kde-wallpapers/main/usr/share/wallpapers/Xero-Plasma6.jpg' -O 'Xero-Plasma6.jpg'
+	#wget -c 'https://raw.githubusercontent.com/xerolinux/kde-wallpapers/main/usr/share/wallpapers/Xero-Plasma6.jpg' -O 'Xero-Plasma6.jpg'
+
+	##
+	## ## Xero-Plasma6
+	##
+	## * https://github.com/XeroLinuxDev/kde-wallpapers/blob/main/usr/share/wallpapers/Xero-Plasma6.jpg
+	##
+
+	wget -c 'https://raw.githubusercontent.com/XeroLinuxDev/kde-wallpapers/main/usr/share/wallpapers/Xero-Plasma6.jpg' -O 'Xero-Plasma6.jpg'
 
 }
 

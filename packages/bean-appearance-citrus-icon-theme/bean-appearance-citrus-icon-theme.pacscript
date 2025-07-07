@@ -40,8 +40,8 @@ package () {
 	#cd "${_archive}"
 
 	echo
-	echo cd "Citrus-icon-theme-master"
-	cd "Citrus-icon-theme-master"
+	echo cd "${pkgname}-master"
+	cd "${pkgname}-master"
 
 	local icons_dir_path="${pkgdir}/usr/share/icons"
 

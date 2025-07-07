@@ -23,9 +23,13 @@ package () {
 
 	#pwd
 
+	#echo
+	#echo cd "${_archive}"
+	#cd "${_archive}"
+
 	echo
-	echo cd "${_archive}"
-	cd "${_archive}"
+	echo cd "${pkgname}-main"
+	cd "${pkgname}-main"
 
 	local themes_dir_path="${pkgdir}/usr/share/themes"
 

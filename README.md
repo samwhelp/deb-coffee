@@ -74,3 +74,4 @@
 | Link | GitHub |
 | ---- | ------ |
 | [deb-recipe](https://samwhelp.github.io/deb-recipe/) | [GitHub](https://github.com/samwhelp/deb-recipe) |
+| [pacstall-packaging](https://samwhelp.github.io/deb-recipe/) | [GitHub](https://github.com/samwhelp/pacstall-packaging) |

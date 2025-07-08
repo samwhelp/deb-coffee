@@ -126,6 +126,11 @@ pacstall -A "file://${HOME}/Documents/deb-coffee"
 pacstall -S demo
 ```
 
+``` sh
+pacstall -S bean
+```
+
+
 ### Build and Install
 
 ``` sh

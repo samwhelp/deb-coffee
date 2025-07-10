@@ -4,7 +4,7 @@ arch=("all")
 pkgver="0.1.1"
 pkgdesc="Colloid Gtk Theme"
 maintainer="develop <develop@home.heaven>"
-source=("https://github.com/vinceliuice/Colloid-gtk-theme/archive/refs/heads/master.tar.gz")
+source=("https://github.com/vinceliuice/Colloid-gtk-theme/archive/refs/heads/main.tar.gz")
 url="https://github.com/samwhelp/deb-coffee/tree/main/packages/bean-appearance-colloid-gtk-theme"
 depends=()
 pacdeps=()
@@ -28,8 +28,8 @@ package () {
 	#cd "${_archive}"
 
 	echo
-	echo cd "Colloid-gtk-theme-master"
-	cd "Colloid-gtk-theme-master"
+	echo cd "Colloid-gtk-theme-main"
+	cd "Colloid-gtk-theme-main"
 
 	local themes_dir_path="${pkgdir}/usr/share/themes"
 

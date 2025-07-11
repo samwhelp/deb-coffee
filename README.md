@@ -47,7 +47,9 @@
 | [bean-appearance-orchis-kde-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-orchis-kde-theme/bean-appearance-orchis-kde-theme.pacscript) | [Source](https://github.com/vinceliuice/Orchis-kde) |
 | [bean-appearance-graphite-kde-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-graphite-kde-theme/bean-appearance-graphite-kde-theme.pacscript) | [Source](https://github.com/vinceliuice/Graphite-kde-theme) |
 | [bean-appearance-fluent-kde-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-fluent-kde-theme/bean-appearance-fluent-kde-theme.pacscript) | [Source](https://github.com/vinceliuice/Fluent-kde) |
+| [bean-appearance-colloid-kde-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-colloid-kde-theme/bean-appearance-colloid-kde-theme.pacscript) | [Source](https://github.com/vinceliuice/colloid-kde) |
 | [bean-appearance-layan-kde-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-layan-kde-theme/bean-appearance-layan-kde-theme.pacscript) | [Source](https://github.com/vinceliuice/Layan-kde) |
+| [bean-appearance-qogir-kde-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-qogir-kde-theme/bean-appearance-qogir-kde-theme.pacscript) | [Source](https://github.com/vinceliuice/qogir-kde) |
 
 
 ### gtk-theme

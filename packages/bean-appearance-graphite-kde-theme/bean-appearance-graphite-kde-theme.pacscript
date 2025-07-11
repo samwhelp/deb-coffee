@@ -4,7 +4,7 @@ arch=("all")
 pkgver="0.1.1"
 pkgdesc="Graphite Kde Theme"
 maintainer="develop <develop@home.heaven>"
-source=("https://github.com/vinceliuice/Graphite-kde-theme/archive/refs/heads/master.tar.gz")
+source=("https://github.com/vinceliuice/Graphite-kde-theme/archive/refs/heads/main.tar.gz")
 url="https://github.com/samwhelp/deb-coffee/tree/main/packages/bean-appearance-graphite-kde-theme"
 depends=()
 pacdeps=()
@@ -136,7 +136,7 @@ package () {
 
 	#prjdir="${_archive}"
 
-	prjdir="${srcdir}/Graphite-kde-theme-master"
+	prjdir="${srcdir}/Graphite-kde-theme-main"
 
 
 	echo

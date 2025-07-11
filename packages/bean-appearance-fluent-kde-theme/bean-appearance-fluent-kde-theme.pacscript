@@ -84,6 +84,14 @@ mod_theme_install_plasma_theme () {
 	util_copy_from_srcdir_to_desdir "${src_dir_path}" "${des_dir_path}"
 
 
+
+
+	echo rm -rf "${pkgdir}/usr/share/plasma/plasmoids"
+	rm -rf "${pkgdir}/usr/share/plasma/plasmoids"
+
+
+
+
 	return 0
 }
 

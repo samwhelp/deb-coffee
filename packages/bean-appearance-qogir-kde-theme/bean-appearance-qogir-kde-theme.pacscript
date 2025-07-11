@@ -95,6 +95,9 @@ mod_theme_install_sddm_theme () {
 	util_copy_from_srcdir_to_desdir "${src_dir_path}" "${des_dir_path}"
 
 
+	rm -f "${des_dir_path}/Qogir/theme.conf.user"
+
+
 	rm -f "${des_dir_path}/install.sh"
 	rm -f "${des_dir_path}/README.md"
 

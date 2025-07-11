@@ -4,7 +4,7 @@ arch=("all")
 pkgver="0.1.1"
 pkgdesc="Orchis Kde Theme"
 maintainer="develop <develop@home.heaven>"
-source=("https://github.com/vinceliuice/Orchis-kde/archive/refs/heads/master.tar.gz")
+source=("https://github.com/vinceliuice/Orchis-kde/archive/refs/heads/main.tar.gz")
 url="https://github.com/samwhelp/deb-coffee/tree/main/packages/bean-appearance-orchis-kde-theme"
 depends=()
 pacdeps=()
@@ -135,7 +135,7 @@ package () {
 
 	#prjdir="${_archive}"
 
-	prjdir="${srcdir}/Orchis-kde-master"
+	prjdir="${srcdir}/Orchis-kde-main"
 
 
 	echo

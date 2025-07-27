@@ -86,8 +86,28 @@ mod_theme_install_plasma_theme () {
 
 
 
-	echo rm -rf "${pkgdir}/usr/share/plasma/plasmoids"
-	rm -rf "${pkgdir}/usr/share/plasma/plasmoids"
+	echo rm -rf "${des_dir_path}/plasmoids"
+	rm -rf "${des_dir_path}/plasmoids"
+
+
+	echo rm -rf "${des_dir_path}/look-and-feel/backgrounds"
+	rm -rf "${des_dir_path}/look-and-feel/backgrounds"
+
+
+	echo rm -f "${des_dir_path}/look-and-feel/backgrounds-blur.svg"
+	rm -rf "${des_dir_path}/look-and-feel/backgrounds-blur.svg"
+
+
+	echo rm -f "${des_dir_path}/look-and-feel/render-wallpapers.sh"
+	rm -rf "${des_dir_path}/look-and-feel/render-wallpapers.sh"
+
+
+	echo rm -f "${des_dir_path}/look-and-feel/Fluent-lnf.svg"
+	rm -rf "${des_dir_path}/look-and-feel/Fluent-lnf.svg"
+
+
+	echo rm -f "${des_dir_path}/look-and-feel/render-lnf.sh"
+	rm -rf "${des_dir_path}/look-and-feel/render-lnf.sh"
 
 
 

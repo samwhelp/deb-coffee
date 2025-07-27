@@ -86,8 +86,12 @@ mod_theme_install_plasma_theme () {
 
 
 
-	echo rm -rf "${pkgdir}/usr/share/plasma/plasmoids"
-	rm -rf "${pkgdir}/usr/share/plasma/plasmoids"
+	echo rm -rf "${des_dir_path}/plasmoids"
+	rm -rf "${des_dir_path}/plasmoids"
+
+
+	echo rm -rf "${des_dir_path}/desktoptheme/icons"
+	rm -rf "${des_dir_path}/desktoptheme/icons"
 
 
 

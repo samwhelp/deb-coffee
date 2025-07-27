@@ -51,6 +51,28 @@ mod_theme_install_aurorae_theme () {
 	util_copy_from_srcdir_to_desdir "${src_dir_path}" "${des_dir_path}"
 
 
+
+
+	echo cp -rfT "${src_dir_path}/common" "${des_dir_path}/Colloid-dark"
+	cp -rfT "${src_dir_path}/common" "${des_dir_path}/Colloid-dark"
+
+
+	echo cp -rfT "${src_dir_path}/common" "${des_dir_path}/Colloid-light"
+	cp -rfT "${src_dir_path}/common" "${des_dir_path}/Colloid-light"
+
+
+
+
+	echo rm -rf "${des_dir_path}/common"
+	rm -rf "${des_dir_path}/common"
+
+
+	echo rm -rf "${des_dir_path}/common-nord"
+	rm -rf "${des_dir_path}/common-nord"
+
+
+
+
 	return 0
 }
 

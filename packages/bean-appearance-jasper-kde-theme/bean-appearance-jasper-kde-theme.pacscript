@@ -51,6 +51,24 @@ mod_theme_install_aurorae_theme () {
 	util_copy_from_srcdir_to_desdir "${src_dir_path}" "${des_dir_path}"
 
 
+
+
+	echo cp -rfT "${src_dir_path}/common" "${des_dir_path}/Jasper-dark"
+	cp -rfT "${src_dir_path}/common" "${des_dir_path}/Jasper-dark"
+
+
+	echo cp -rfT "${src_dir_path}/common" "${des_dir_path}/Jasper-light"
+	cp -rfT "${src_dir_path}/common" "${des_dir_path}/Jasper-light"
+
+
+
+
+	echo rm -rf "${des_dir_path}/common"
+	rm -rf "${des_dir_path}/common"
+
+
+
+
 	return 0
 }
 

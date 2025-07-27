@@ -1,11 +1,11 @@
-pkgname="bean-appearance-veversal-gtk-theme"
+pkgname="bean-appearance-reversal-gtk-theme"
 gives="${pkgname}"
 arch=("all")
 pkgver="0.1.1"
 pkgdesc="Reversal Gtk Theme"
 maintainer="develop <develop@home.heaven>"
 source=("https://github.com/yeyushengfan258/Reversal-gtk-theme/archive/refs/heads/main.tar.gz")
-url="https://github.com/samwhelp/deb-coffee/tree/main/packages/bean-appearance-veversal-gtk-theme"
+url="https://github.com/samwhelp/deb-coffee/tree/main/packages/bean-appearance-reversal-gtk-theme"
 depends=()
 pacdeps=()
 replace=()

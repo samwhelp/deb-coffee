@@ -73,22 +73,22 @@ mod_theme_install_aurorae_theme () {
 
 
 
-	echo cp -rfT "${src_dir_path}/common" "${des_dir_path}/Colloid-dark-nord"
-	cp -rfT "${src_dir_path}/common" "${des_dir_path}/Colloid-dark-nord"
+	echo cp -rfT "${src_dir_path}/common-nord" "${des_dir_path}/Colloid-dark-nord"
+	cp -rfT "${src_dir_path}/common-nord" "${des_dir_path}/Colloid-dark-nord"
 
 
-	echo cp -rfT "${src_dir_path}/common" "${des_dir_path}/Colloid-light-nord"
-	cp -rfT "${src_dir_path}/common" "${des_dir_path}/Colloid-light-nord"
+	echo cp -rfT "${src_dir_path}/common-nord" "${des_dir_path}/Colloid-light-nord"
+	cp -rfT "${src_dir_path}/common-nord" "${des_dir_path}/Colloid-light-nord"
 
 
 
 
-	echo cp -rfT "${src_dir_path}/common" "${des_dir_path}/Colloid-dark-round-nord"
-	cp -rfT "${src_dir_path}/common" "${des_dir_path}/Colloid-dark-round-nord"
+	echo cp -rfT "${src_dir_path}/common-nord" "${des_dir_path}/Colloid-dark-round-nord"
+	cp -rfT "${src_dir_path}/common-nord" "${des_dir_path}/Colloid-dark-round-nord"
 
 
-	echo cp -rfT "${src_dir_path}/common" "${des_dir_path}/Colloid-light-round-nord"
-	cp -rfT "${src_dir_path}/common" "${des_dir_path}/Colloid-light-round-nord"
+	echo cp -rfT "${src_dir_path}/common-nord" "${des_dir_path}/Colloid-light-round-nord"
+	cp -rfT "${src_dir_path}/common-nord" "${des_dir_path}/Colloid-light-round-nord"
 
 
 

@@ -1,11 +1,11 @@
-pkgname="bean-appearance-lavanda-kde-theme"
+pkgname="bean-appearance-chromeos-kde-theme"
 gives="${pkgname}"
 arch=("all")
 pkgver="0.1.1"
-pkgdesc="Lavanda Kde Theme"
+pkgdesc="ChromeOS Kde Theme"
 maintainer="develop <develop@home.heaven>"
-source=("https://github.com/vinceliuice/Lavanda-kde/archive/refs/heads/main.tar.gz")
-url="https://github.com/samwhelp/deb-coffee/tree/main/packages/bean-appearance-lavanda-kde-theme"
+source=("https://github.com/vinceliuice/ChromeOS-kde/archive/refs/heads/master.tar.gz")
+url="https://github.com/samwhelp/deb-coffee/tree/main/packages/bean-appearance-chromeos-kde-theme"
 depends=()
 pacdeps=()
 replace=()
@@ -109,22 +109,10 @@ mod_theme_install_plasma_theme () {
 
 mod_theme_install_sddm_theme () {
 
-	local src_dir_path="${prjdir}/sddm/6.0"
-	local des_dir_path="${pkgdir}/usr/share/sddm/themes"
+	local src_dir_path="${prjdir}/ssddm/6.0/ChromeOS"
+	local des_dir_path="${pkgdir}/usr/share/sddm/themes/ChromeOS"
 
 	util_copy_from_srcdir_to_desdir "${src_dir_path}" "${des_dir_path}"
-
-
-
-
-	echo rm -f "${des_dir_path}/install.sh"
-	rm -f "${des_dir_path}/install.sh"
-
-
-	echo rm -f "${des_dir_path}/README.md"
-	rm -f "${des_dir_path}/README.md"
-
-
 
 
 	return 0
@@ -162,7 +150,7 @@ package () {
 
 	#prjdir="${_archive}"
 
-	prjdir="${srcdir}/Lavanda-kde-main"
+	prjdir="${srcdir}/ChromeOS-kde-master"
 
 
 	echo

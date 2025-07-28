@@ -4,7 +4,7 @@ arch=("all")
 pkgver="0.1.1"
 pkgdesc="Lavanda Gtk Theme"
 maintainer="develop <develop@home.heaven>"
-source=("https://github.com/vinceliuice/Lavanda-gtk-theme/archive/refs/heads/master.tar.gz")
+source=("https://github.com/vinceliuice/Lavanda-gtk-theme/archive/refs/heads/main.tar.gz")
 url="https://github.com/samwhelp/deb-coffee/tree/main/packages/bean-appearance-lavanda-gtk-theme"
 depends=()
 pacdeps=()
@@ -28,8 +28,8 @@ package () {
 	#cd "${_archive}"
 
 	echo
-	echo cd "Lavanda-gtk-theme-master"
-	cd "Lavanda-gtk-theme-master"
+	echo cd "Lavanda-gtk-theme-main"
+	cd "Lavanda-gtk-theme-main"
 
 	local themes_dir_path="${pkgdir}/usr/share/themes"
 

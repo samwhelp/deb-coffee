@@ -87,3 +87,5 @@
 | ---- | ------ |
 | [deb-recipe](https://samwhelp.github.io/deb-recipe/) | [GitHub](https://github.com/samwhelp/deb-recipe) |
 | [pacstall-packaging](https://samwhelp.github.io/deb-recipe/) | [GitHub](https://github.com/samwhelp/pacstall-packaging) |
+| [deb-coffee-maccity](https://samwhelp.github.io/deb-coffee-maccity/) | [GitHub](https://github.com/samwhelp/deb-coffee-maccity) |
+| [deb-coffee-wincity](https://samwhelp.github.io/deb-coffee-wincity/) | [GitHub](https://github.com/samwhelp/deb-coffee-wincity) |

@@ -25,6 +25,13 @@ has_children: true
 
 
 
+## Note
+
+* [Pacstall / Note](https://samwhelp.github.io/note-about-pacstall/)
+
+
+
+
 ## Just the Docs
 
 * [Just the Docs](https://just-the-docs.github.io/just-the-docs/) ([GitHub](https://github.com/just-the-docs/just-the-docs))

@@ -13,6 +13,24 @@ replace=()
 
 
 
+util_copy_from_srcfile_to_desfile () {
+
+	local src_file_path="${1}"
+	local des_file_path="${2}"
+
+
+	echo
+	echo cp -f "${src_file_path}" "${des_file_path}"
+	cp -f "${src_file_path}" "${des_file_path}"
+
+
+	echo
+
+	return 0
+
+}
+
+
 util_copy_from_srcdir_to_desdir () {
 
 	local src_dir_path="${1}"
@@ -123,9 +141,26 @@ mod_theme_install_sddm_theme () {
 	util_copy_from_srcdir_to_desdir "${src_dir_path}" "${des_dir_path}"
 
 
+
+
+	util_copy_from_srcfile_to_desfile "${src_dir_path}/backgrounds/background.png" "${des_dir_path}/Fluent/background.png"
+
+
+
+
+	echo
+	echo rm -rf "${des_dir_path}/backgrounds"
 	rm -rf "${des_dir_path}/backgrounds"
+
+	echo
+	echo rm -f "${des_dir_path}/install.sh"
 	rm -f "${des_dir_path}/install.sh"
+
+	echo
+	echo rm -f "${des_dir_path}/README.md"
 	rm -f "${des_dir_path}/README.md"
+
+
 
 
 	return 0

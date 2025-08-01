@@ -160,15 +160,37 @@ mod_theme_install_sddm_theme () {
 
 
 
-	cp -f "${src_dir_path}/images/Colloid-dark.png" "${des_dir_path}/Colloid/background.png"
 
-
+	echo
+	echo rm -f "${des_dir_path}/Colloid/theme.conf.user"
 	rm -f "${des_dir_path}/Colloid/theme.conf.user"
 
 
+	echo
+	echo cp -f "${src_dir_path}/images/Colloid-dark.png" "${des_dir_path}/Colloid/background.png"
+	cp -f "${src_dir_path}/images/Colloid-dark.png" "${des_dir_path}/Colloid/background.png"
+
+
+	echo
+	echo cp -f "${src_dir_path}/images/Preview-dark.png" "${des_dir_path}/Colloid/Preview.png"
+	cp -f "${src_dir_path}/images/Preview-dark.png" "${des_dir_path}/Colloid/Preview.png"
+
+
+	echo
+	echo rm -rf "${des_dir_path}/images"
 	rm -rf "${des_dir_path}/images"
+
+
+	echo
+	echo rm -f "${des_dir_path}/install.sh"
 	rm -f "${des_dir_path}/install.sh"
+
+
+	echo
+	echo rm -f "${des_dir_path}/README.md"
 	rm -f "${des_dir_path}/README.md"
+
+
 
 
 	return 0

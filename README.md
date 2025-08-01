@@ -39,6 +39,7 @@
 | [bean-appearance-citrus-icon-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-citrus-icon-theme/bean-appearance-citrus-icon-theme.pacscript) | [Source](https://github.com/yeyushengfan258/Citrus-icon-theme) |
 | [bean-appearance-greystone-icon-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-greystone-icon-theme/bean-appearance-greystone-icon-theme.pacscript) | [Source](https://github.com/SethStormR/GreyStone) |
 | [bean-appearance-reversal-icon-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-reversal-icon-theme/bean-appearance-reversal-icon-theme.pacscript) | [Source](https://github.com/yeyushengfan258/Reversal-icon-theme) |
+| [bean-appearance-canta-icon-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-canta-icon-theme/bean-appearance-canta-icon-theme.pacscript) | [Source](hhttps://github.com/vinceliuice/Canta-theme/tree/master/icons) |
 
 
 ### kde-theme

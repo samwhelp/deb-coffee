@@ -31,8 +31,8 @@ package () {
 	#cd "${_archive}"
 
 	echo
-	echo cd "GreyStone-port"
-	cd "GreyStone-port"
+	echo cd "greystone-icon-theme-port"
+	cd "greystone-icon-theme-port"
 
 	local icons_dir_path="${pkgdir}/usr/share/icons"
 

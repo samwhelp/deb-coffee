@@ -4,12 +4,17 @@ arch=("all")
 pkgver="0.1.1"
 pkgdesc="Citrus-icon-theme"
 maintainer="develop <develop@home.heaven>"
-source=("https://github.com/yeyushengfan258/Citrus-icon-theme/archive/refs/heads/master.tar.gz")
+source=("https://github.com/samwhelp/citrus-icon-theme/archive/refs/heads/port.tar.gz")
 url="https://github.com/samwhelp/deb-coffee/tree/main/packages/bean-appearance-citrus-icon-theme"
 depends=()
 pacdeps=()
 replace=()
 
+
+
+##
+## source=("https://github.com/yeyushengfan258/Citrus-icon-theme/archive/refs/heads/master.tar.gz")
+##
 
 
 
@@ -40,8 +45,8 @@ package () {
 	#cd "${_archive}"
 
 	echo
-	echo cd "Citrus-icon-theme-master"
-	cd "Citrus-icon-theme-master"
+	echo cd "citrus-icon-theme-port"
+	cd "citrus-icon-theme-port"
 
 	local icons_dir_path="${pkgdir}/usr/share/icons"
 
@@ -58,6 +63,18 @@ package () {
 	echo cd "${OLDPWD}"
 	cd "${OLDPWD}"
 	echo
+
+
+
+
+	echo
+	echo "##"
+	echo "## ## Done"
+	echo "##"
+	echo
+
+
+	return 0
 
 
 

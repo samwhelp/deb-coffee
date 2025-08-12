@@ -4,13 +4,16 @@ arch=("all")
 pkgver="0.1.1"
 pkgdesc="GreyStone Icon Theme"
 maintainer="develop <develop@home.heaven>"
-source=("https://github.com/SethStormR/GreyStone/archive/refs/heads/main.tar.gz")
+source=("https://github.com/samwhelp/greystone-icon-theme/archive/refs/heads/port.tar.gz")
 url="https://github.com/samwhelp/deb-coffee/tree/main/packages/bean-appearance-greystone-icon-theme"
 depends=()
 pacdeps=()
 replace=()
 
 
+##
+## source=("https://github.com/SethStormR/GreyStone/archive/refs/heads/main.tar.gz")
+##
 
 
 package () {
@@ -28,8 +31,8 @@ package () {
 	#cd "${_archive}"
 
 	echo
-	echo cd "GreyStone-main"
-	cd "GreyStone-main"
+	echo cd "GreyStone-port"
+	cd "GreyStone-port"
 
 	local icons_dir_path="${pkgdir}/usr/share/icons"
 

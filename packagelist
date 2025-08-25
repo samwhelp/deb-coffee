@@ -30,6 +30,9 @@ bean-appearance-reversal-icon-theme
 bean-appearance-reversal-kde-theme
 bean-appearance-vimix-gtk-theme
 bean-appearance-vimix-kde-theme
+bean-resource-kde-plasma-keybind-switch
+bean-resource-kde-plasma-layout-switch
 bean-resource-kde-plasma-layout-templates
+bean-resource-kde-plasma-style-switch
 bean-wallpaper-collection
 demo

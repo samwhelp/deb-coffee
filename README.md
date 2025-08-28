@@ -21,7 +21,7 @@
 * [icon-theme](#icon-theme)
 * [kde-theme](#kde-theme)
 * [gtk-theme](#gtk-theme)
-
+* [kde-resource](#kde-resource)
 
 
 
@@ -82,6 +82,16 @@
 | [bean-appearance-jasper-gtk-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-jasper-gtk-theme/bean-appearance-jasper-gtk-theme.pacscript) | [Source](https://github.com/vinceliuice/Jasper-gtk-theme) |
 
 
+### kde-resource
+
+| Pacscript | Source |
+| --------- | ------ |
+| [bean-resource-kde-plasma-layout-templates](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-resource-kde-plasma-layout-templates/bean-resource-kde-plasma-layout-templates.pacscript) | [Source](https://github.com/samwhelp/kde-plasma-layout-templates) |
+| [bean-resource-kde-plasma-layout-switch](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-resource-kde-plasma-layout-switch/bean-resource-kde-plasma-layout-switch.pacscript) | [Source](https://github.com/samwhelp/kde-plasma-layout-switch) |
+| [bean-resource-kde-plasma-style-switch](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-resource-kde-plasma-style-switch/bean-resource-kde-plasma-style-switch.pacscript) | [Source](https://github.com/samwhelp/kde-plasma-style-switch) |
+| [bean-resource-kde-plasma-keybind-switch](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-resource-kde-plasma-keybind-switch/bean-resource-kde-plasma-keybind-switch.pacscript) | [Source](https://github.com/samwhelp/kde-plasma-keybind-switch) |
+
+
 
 
 ## Link
@@ -98,3 +108,4 @@
 | [deb-coffee-grub](https://samwhelp.github.io/deb-coffee-grub/) | [GitHub](https://github.com/samwhelp/deb-coffee-grub) |
 | [deb-coffee-sddm](https://samwhelp.github.io/deb-coffee-sddm/) | [GitHub](https://github.com/samwhelp/deb-coffee-sddm) |
 | [ubuntu-iso-builder-template](https://samwhelp.github.io/ubuntu-iso-builder-template/) | [GitHub](https://github.com/samwhelp/ubuntu-iso-builder-template) |
+| [debian-iso-builder-template](https://samwhelp.github.io/debian-iso-builder-template/) | [GitHub](https://github.com/samwhelp/debian-iso-builder-template) |

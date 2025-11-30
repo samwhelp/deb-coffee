@@ -7,6 +7,17 @@
 
 
 
+## Notice
+
+> Some package need sassc.
+
+``` sh
+sudo apt-get install sassc
+```
+
+
+
+
 ## Link
 
 * Pacstall / [pacstall-programs](https://github.com/pacstall/pacstall-programs#pacstall-programs)

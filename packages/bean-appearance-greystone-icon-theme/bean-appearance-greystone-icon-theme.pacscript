@@ -42,6 +42,12 @@ package () {
 	mkdir -p "${icons_dir_path}"
 
 
+
+
+	##
+	## ## default edition
+	##
+
 	echo
 	echo tar xf GreyStone.tar.xz
 	tar xf GreyStone.tar.xz
@@ -55,6 +61,29 @@ package () {
 	echo
 	echo gtk-update-icon-cache -f "${icons_dir_path}/GreyStone"
 	gtk-update-icon-cache -f "${icons_dir_path}/GreyStone"
+
+
+
+
+	##
+	## ## circle edition
+	##
+
+	echo
+	echo tar xf GreyStone-Circle.tar.xz
+	tar xf GreyStone-Circle.tar.xz
+
+
+	echo
+	echo cp -rfT "GreyStone-Circle" "${icons_dir_path}/GreyStone-Circle"
+	cp -rfT "GreyStone-Circle" "${icons_dir_path}/GreyStone-Circle"
+
+
+	echo
+	echo gtk-update-icon-cache -f "${icons_dir_path}/GreyStone-Circle"
+	gtk-update-icon-cache -f "${icons_dir_path}/GreyStone-Circle"
+
+
 
 
 	echo

@@ -135,30 +135,27 @@ mod_theme_install_plasma_theme () {
 
 mod_theme_install_sddm_theme () {
 
-	local src_dir_path="${prjdir}/sddm"
-	local des_dir_path="${pkgdir}/usr/share/sddm/themes"
+	local src_dir_path="${prjdir}/sddm/6.0"
+	local des_dir_path="${pkgdir}/usr/share/sddm/themes/Fluent"
 
 	util_copy_from_srcdir_to_desdir "${src_dir_path}" "${des_dir_path}"
 
 
 
 
-	util_copy_from_srcfile_to_desfile "${src_dir_path}/backgrounds/background.png" "${des_dir_path}/Fluent/background.png"
-
-
+	echo
+	echo rm -f "${des_dir_path}/theme.conf.user"
+	rm -f "${des_dir_path}/theme.conf.user"
 
 
 	echo
-	echo rm -rf "${des_dir_path}/backgrounds"
-	rm -rf "${des_dir_path}/backgrounds"
+	echo cp -f "${prjdir}/sddm/backgrounds/background-round.png" "${des_dir_path}/background.png"
+	cp -f "${prjdir}/sddm/backgrounds/background-round.png" "${des_dir_path}/background.png"
+
 
 	echo
-	echo rm -f "${des_dir_path}/install.sh"
-	rm -f "${des_dir_path}/install.sh"
-
-	echo
-	echo rm -f "${des_dir_path}/README.md"
-	rm -f "${des_dir_path}/README.md"
+	echo cp -f "${prjdir}/sddm/preview.png" "${des_dir_path}/preview.png"
+	cp -f "${prjdir}/sddm/preview.png" "${des_dir_path}/preview.png"
 
 
 
